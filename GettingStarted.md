@@ -29,4 +29,4 @@ To improve performance and avoid collision with unwanted objects the collision m
 
 ## Start adding observers and targets
 
-And finally  [observers](Observers/Observer.md) and  [targets](Target/Target.md) can be added to your scene.
+And finally  [observers](Components/Observer.md) and  [targets](Components/Target.md) can be added to your scene.

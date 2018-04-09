@@ -1,6 +1,6 @@
 # Sight Target
 
-Sight targets can be detected by  [Observers]() or an implementation of  [Sight](). You can also create your own  [ISightTarget]() implementation allowing for full control.
+Sight targets can be detected by [Observers](Observer.md) or an implementation of  [Sight](Sight.md). You can also create your own  [ISightTarget](ISightTarget.md) implementation allowing for full control.
 
 .. raw:: html
 
@@ -17,4 +17,4 @@ Sight targets can be detected by  [Observers]() or an implementation of  [Sight]
 
 ![](Assets/SightTargetBehaviour.png)
 
-Also have a look at the  [sight target debugger]().
+Also have a look at the  [sight target debugger](../Editors/SightTargetDebugger.md).

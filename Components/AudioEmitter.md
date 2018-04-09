@@ -1,6 +1,6 @@
 # Audio Emitter
 
-The AudioEmitterBehaviour emits an audio audio source every "emit interval" seconds. These audio sources can be listened to using an  [Listener](http://devdog.nl/documentation/listener/). The Audio emitter behaviour creates an audio source which is pooled by the  [AudioSourceManager](http://devdog.nl/documentation/audio-source-manager/), which are set as children of the _Managers object.
+The AudioEmitterBehaviour emits an audio audio source every "emit interval" seconds. These audio sources can be listened to using an  [Listener](Listener.md). The Audio emitter behaviour creates an audio source which is pooled by the  [AudioSourceManager](AudioSourceManager.md), which are set as children of the _Managers object.
 
 .. raw:: html
 	
@@ -8,4 +8,4 @@ The AudioEmitterBehaviour emits an audio audio source every "emit interval" seco
 
 ![](Assets/AudioEmitterBehaviour.png)
 
-Also see  [Audio sources](), and see how you can create your own through code.
+Also see  [Audio sources](AudioSource.md), and see how you can create your own through code.
