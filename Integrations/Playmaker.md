@@ -1,8 +1,6 @@
 # Playmaker
 
-.. raw:: html
-
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/78vyHQZzeFE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/78vyHQZzeFE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 First, make sure the integration is enabled in the integrations wizard under Tools > Los Pro > Integrations. If you're using multiple Devdog assets that use an integration you will only need to enable it once. For example, if you're using Inventory Pro and Los Pro, and both use the integration PlayMaker, you'll only have to enable it once, and both assets will be able to use the integrations.
 

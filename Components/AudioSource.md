@@ -1,8 +1,6 @@
 # Audio Source
 
-.. raw:: html
-
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/2M5jJKCYNkE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2M5jJKCYNkE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 The AudioSourceBehaviour implements the IAudioSource interface and can be detected by  [Listeners](Listener.md).

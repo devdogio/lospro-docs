@@ -2,9 +2,7 @@
 
 For added flexibility you can receive an observer's callbacks using a single interface. Simply create a new script, implement the `IObserverCallbacks` interface and attach the component to an observer.
 
-.. raw:: html
-
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/vYYkynDsF6g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vYYkynDsF6g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 **Note: All Los Pro code is in the namespace Devdog.LosPro; You'll need to add the using at the top of your scripts.**
 

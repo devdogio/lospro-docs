@@ -2,9 +2,7 @@
 
 Sight targets can be detected by [Observers](Observer.md) or an implementation of `ISight`. You can also create your own  [ISightTarget](ISightTarget.md) implementation allowing for full control.
 
-.. raw:: html
-
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/OOVI5Snfw9E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OOVI5Snfw9E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 -   **Detection time:** The time it takes to detect this target in seconds. **The object has to be visible enough (min visible factor) by the observer before the timer starts.**
 -   **Min visibility multiplier:** The minimal visibility multiplier of this target, as defined by the observer. A value of 1 will not affect the minimal visibility. A value of 2 will make this target 2x as difficult to detect. A value of 0.5 will make this object 2x easier to detect (50% less difficult).

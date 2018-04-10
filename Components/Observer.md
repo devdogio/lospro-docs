@@ -2,9 +2,7 @@
 
 The observer can detect [sight targets](SightTarget.md). Various configurations can be set to tweak the observer to your needs.
 
-.. raw:: html
-
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/OOVI5Snfw9E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OOVI5Snfw9E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 -   **Eyes:** The eyes are the starting position of the raycasts. This should either be the observer gameObject or a child object of the observer. In most cases it's recommended to create a child object and use this as the eyes for optimal control.
 -   **Raycast layer:**  The layers used to detect the sight targets. It's recommended to disable (uncheck) the sight layer and hearing layer from this layer mask.
