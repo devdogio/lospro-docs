@@ -1,6 +1,6 @@
 # IObserver
 
-Observers are used to detect targets and are the wrappers for  [ISight](ISight.md). The observers receive all callbacks.
+Observers are used to detect targets and are the wrappers for `ISight`. The observers receive all callbacks.
 
 ## Example code
 

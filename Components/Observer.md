@@ -23,4 +23,4 @@ The observer can detect [sight targets](SightTarget.md). Various configurations 
 
 ## Programming
 
-Los Pro also has a great programming backend. See the  [IObserverCallbacks](IObserverCallbacks.md) and  [IObserver](IObserver.md) documentation on how to implement this with your own code. Want to detect a  [target](Target.md) with custom code? Have a look at [ISightTarget](ISightTarget.md).
+Los Pro also has a great programming backend. See the  [IObserverCallbacks](IObserverCallbacks.md) and  [IObserver](IObserver.md) documentation on how to implement this with your own code. Want to detect a  [SightTarget](SightTarget.md) with custom code? Have a look at [ISightTarget](ISightTarget.md).

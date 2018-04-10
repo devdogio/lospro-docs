@@ -1,6 +1,6 @@
 # Sight Target
 
-Sight targets can be detected by [Observers](Observer.md) or an implementation of  [Sight](Sight.md). You can also create your own  [ISightTarget](ISightTarget.md) implementation allowing for full control.
+Sight targets can be detected by [Observers](Observer.md) or an implementation of `ISight`. You can also create your own  [ISightTarget](ISightTarget.md) implementation allowing for full control.
 
 .. raw:: html
 
